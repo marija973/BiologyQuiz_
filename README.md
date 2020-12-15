@@ -1,2 +1,1 @@
-# BiologyQuiz_
-Android Application
+# BiologyQuiz
